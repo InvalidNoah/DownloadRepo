@@ -16,7 +16,7 @@ http://193.141.60.22
 
 # Install Pocketmine on Debian
 ````
-wget -q - -O https://get.pmmp.io | bash -s - -r
+wget -q -O - https://get.pmmp.io | bash -s - -r
 ````
 
 [copy me](http://193.141.60.22/)
